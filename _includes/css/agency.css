@@ -357,13 +357,14 @@ section h3.section-subheading {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    position: relative;
 }
 
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 100%;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
@@ -402,10 +403,14 @@ section h3.section-subheading {
     margin: 0;
 }
 
+#portfolio .portfolio-item .portfolio-link > img {
+    width: 100%;
+}
+
 #portfolio .portfolio-item .portfolio-caption {
     margin: 0 auto;
     padding: 25px;
-    max-width: 400px;
+    max-width: 100%;
     text-align: center;
     background-color: #fff;
 }
@@ -413,6 +418,25 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-caption h4 {
     margin: 0;
     text-transform: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@media screen and (min-width: 768px) {
+    #portfolio .portfolio-item .portfolio-caption h4 {
+        font-size: 1.5rem;
+    }
+    #portfolio .portfolio-item.col-md-2 .portfolio-caption h4 {
+        font-size: 1.1rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #portfolio .portfolio-item .portfolio-caption,
+    #portfolio .portfolio-item .portfolio-link {
+        max-width: 400px;
+    }
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
@@ -635,10 +659,27 @@ section h3.section-subheading {
 .team-member {
     margin-bottom: 50px;
     text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
+    height: 400px;
+}
+
+@media screen and (max-width: 1200px) {
+    .team-member {
+        height: 350px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .team-member {
+        height: auto;
+        padding-bottom: 4rem;
+    }
 }
 
 .team-member img {
     margin: 0 auto;
+    /* max-width: 300px; */
     border: 7px solid #fff;
 }
 

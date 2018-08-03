@@ -1,59 +1,80 @@
 url: https://playfulexperiences.github.io
-baseurl: /2018DegreeShowWeb/
+baseurl: /2018DegreeShowWeb
 
 # Site settings
-title: Awesome Title
+title: Playful Experiences
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+- name: Jade Hall-Smith
+  pic: "jade"
+  social: []
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+- name: Matthew Deline
+  pic: "matt"
+  social: []
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Alex Fletcher
+  pic: "placeholder"
+  social: []
+
+- name: Benjamin Tandy
+  pic: "placeholder"
+  social: []
+
+- name: Billy Karnchanapee
+  pic: "placeholder"
+  social: []
+
+- name: Doruk Hasdogan
+  pic: "placeholder"
+  social: []
+
+- name: Ece Hasdogan
+  pic: "placeholder"
+  social: []
+
+- name: Julia Makivic
+  pic: "placeholder"
+  social: []
+
+- name: Phoenix Perry
+  pic: "placeholder"
+  social: []
+
+- name: Raymond Vermeulen
+  pic: "placeholder"
+  social: []
+
+- name: Tommy Graven
+  pic: "placeholder"
+  social: []
+
+- name: Hugh Kennedy
+  pic: "hughsk"
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/hughskennedy
+    - title: globe
+      url: https://hughsk.io/
+    - title: github
+      url: https://github.com/hughsk
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
