@@ -788,11 +788,11 @@ ul.social-buttons {
 
 ul.social-buttons li a {
     display: block;
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     border-radius: 100%;
-    font-size: 20px;
-    line-height: 40px;
+    font-size: 15px;
+    line-height: 30px;
     outline: 0;
     color: #fff;
     background-color: #222;

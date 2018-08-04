@@ -15,7 +15,17 @@ people:
 
 - name: Matthew Deline
   pic: "matt"
-  social: []
+  social:
+    - title: twitter
+      url: https://twitter.com/mattdeline
+    - title: github
+      url: https://github.com/aradicaldreamer
+    - title: youtube
+      url: https://youtube.com/matthewdeline
+    - title: linkedin
+      url: https://linkedin.com/in/matthewdeline
+    - title: globe
+      url: https://www.matthewdeline.com
 
 - name: Alex Fletcher
   pic: "placeholder"
@@ -30,12 +40,32 @@ people:
   social: []
 
 - name: Doruk Hasdogan
-  pic: "placeholder"
-  social: []
+  pic: "doruk"
+  social:
+    - title: twitter
+      url: https://twitter.com/DorukHasdogan
+    - title: behance
+      url: https://www.behance.net/Malebolge
+    - title: linkedin
+      url: https://www.linkedin.com/in/dhasd
+    - title: youtube
+      url: https://www.youtube.com/channel/UCfGO0ZESaALif0Y12DF21kQ
 
 - name: Ece Hasdogan
-  pic: "placeholder"
-  social: []
+  pic: "ece"
+  social:
+    - title: twitter
+      url: https://twitter.com/EceSeyrek
+    - title: linkedin
+      url: https://www.linkedin.com/in/ecesey
+    - title: youtube
+      url: https://www.youtube.com/channel/UCNsUSUUsKNzML6Vn3TCT4yw
+    - title: instagram
+      url: https://www.instagram.com/scarce.queen
+    - title: behance
+      url: https://www.behance.net/ScarceQueen
+    - title: globe
+      url: https://artstation.com/eceseyrekhasdogan
 
 - name: Julia Makivic
   pic: "placeholder"
@@ -62,6 +92,8 @@ people:
       url: https://hughsk.io/
     - title: github
       url: https://github.com/hughsk
+    - title: instagram
+      url: https://instagram.com/hughsk
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
