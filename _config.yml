@@ -11,7 +11,13 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Jade Hall-Smith
   pic: "jade"
-  social: []
+  social:
+    - title: twitter
+      url: https://twitter.com/VariegatedGames
+    - title: linkedin
+      url: https://www.linkedin.com/in/jade-hall-smith
+    - title: globe
+      url: https://variegated-games.com
 
 - name: Matthew Deline
   pic: "matt"
@@ -28,16 +34,24 @@ people:
       url: https://www.matthewdeline.com
 
 - name: Alex Fletcher
-  pic: "placeholder"
+  pic: "alex"
   social: []
 
 - name: Benjamin Tandy
   pic: "placeholder"
-  social: []
+  social:
+    - title: twitter
+      url: https://twitter.com/frndcldben
+    - title: globe
+      url: https://www.afriendcalledben.com
 
 - name: Billy Karnchanapee
-  pic: "placeholder"
-  social: []
+  pic: "billy"
+  social:
+    - title: twitter
+      url: https://twitter.com/foxcircles
+    - title: globe
+      url: https://mitunayon.github.io/
 
 - name: Doruk Hasdogan
   pic: "doruk"
@@ -77,11 +91,19 @@ people:
 
 - name: Raymond Vermeulen
   pic: "placeholder"
-  social: []
+  social:
+    - title: twitter
+      url: https://twitter.com/raymondvrmln
+    - title: globe
+      url: http://rvermeulen.com
 
 - name: Tommy Graven
-  pic: "placeholder"
-  social: []
+  pic: "tommy"
+  social:
+    - title: globe
+      url: https://www.tommygraven.com
+    - title: twitter
+      url: https://twitter.com/tommy_goodgame
 
 - name: Hugh Kennedy
   pic: "hughsk"
@@ -92,8 +114,6 @@ people:
       url: https://hughsk.io/
     - title: github
       url: https://github.com/hughsk
-    - title: instagram
-      url: https://instagram.com/hughsk
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
