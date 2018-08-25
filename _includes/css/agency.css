@@ -946,3 +946,16 @@ body {
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.modal-authors {
+    list-style-type: none;
+}
+
+.modal-authors li {
+    display: inline;
+}
+
+.modal-authors li + li:before {
+    content: ',';
+    display: inline;
+}

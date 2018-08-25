@@ -4,10 +4,12 @@ date: 2018-01-01
 layout: default
 img: dreams.png
 thumbnail: chronofold-thumb.jpg
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+alt: evolyte
 small: false
+authors:
+  - ['Ece Seyrek Hasdoğan', 'https://twitter.com/EceSeyrek']
+  - ['Doruk Hasdoğan', 'https://twitter.com/DorukHasdogan']
+  - ['Billy Karnchanapee', 'https://twitter.com/foxcircles']
 ---
+
+A time bending puzzle game where reality is not what it seems.

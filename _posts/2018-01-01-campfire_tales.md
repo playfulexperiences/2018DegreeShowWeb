@@ -4,10 +4,10 @@ date: 2018-01-01
 layout: default
 img: dreams.png
 thumbnail: dreams-thumb.jpg
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+alt: campfire-tales
 small: false
+authors:
+  - ['Matthew Deline', 'https://twitter.com/mattdeline']
 ---
+
+Come and sit by a digital campfire and experience a new world of storytelling by interacting with computer created stories performed by master orators. Feeling brave? Take the reigns and tell a story of your own and watch the room react!

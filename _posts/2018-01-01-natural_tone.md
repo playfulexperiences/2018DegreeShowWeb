@@ -6,8 +6,10 @@ img: dreams.png
 thumbnail: natural-tone-thumb.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+authors:
+  - ['Jade Hall-Smith', 'https://variegated-games.com']
+  - ['Hannes Flor', 'https://twitter.com/elcrabman']
 small: false
 ---
+
+See the world through someone else’s eyes. A 2D retro-inspired Role Playing Game (RPG) about autism and anxiety based on lived experiences.

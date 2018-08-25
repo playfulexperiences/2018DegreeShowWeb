@@ -2,12 +2,12 @@
 title: Evolyte
 date: 2018-01-01
 layout: default
-img: dreams.png
-thumbnail: dreams-thumb.jpg
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+img: evolyte.jpg
+thumbnail: evolyte-thumb.jpg
+alt: evolyte
 small: false
+authors:
+  - ['Hugh Kennedy', 'https://hughsk.io']
 ---
+
+Mine cryptocurrency at the end of the world: Evolyte is a satirical clicker game that addresses the ecological impact and strange politics of Bitcoin and other blockchain technologies.
