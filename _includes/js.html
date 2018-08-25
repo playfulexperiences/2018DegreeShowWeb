@@ -17,3 +17,10 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/logo.js" | prepend: site.baseurl }}"></script>
+    <script>
+        ;(function(){
+            var logo = document.getElementById('logo')
+            createPlayfulExperiencesLogo(logo, logo, "{{ "/img/logo.svg" | prepend: site.baseurl }}")
+        })()
+    </script>

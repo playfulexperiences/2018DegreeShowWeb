@@ -66,7 +66,7 @@ h6 {
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
 .btn-primary {
@@ -172,7 +172,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.secondary-dark }};
 }
 
 .navbar-default .navbar-brand {
@@ -244,8 +244,8 @@ fieldset[disabled] .btn-xl.active {
         transition: padding .3s;
     }
 
-    .navbar-default .navbar-brand {
-        font-size: 2em;
+    .navbar-default .navbar-header {
+        opacity: 0;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -257,25 +257,34 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #{{ site.data.template.color.secondary-dark }};
     }
 
-    .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+    .navbar-default.navbar-shrink .navbar-header {
+        opacity: 1;
     }
 }
 
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
-    background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background: #{{ site.data.template.color.secondary-dark }};
+}
+
+header #logo-wrap {
+    position: relative;
+    min-height: 500px;
+    min-height: 80vh;
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+header #logo {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
 }
 
 header .intro-text {
@@ -698,7 +707,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
+    background-color: #{{ site.data.template.color.secondary-dark }};
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
@@ -795,7 +804,7 @@ ul.social-buttons li a {
     line-height: 30px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.secondary-dark }};
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -869,7 +878,7 @@ ul.social-buttons li a:active {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.secondary-dark }};
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -879,7 +888,7 @@ ul.social-buttons li a:active {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.secondary-dark }};
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
@@ -905,4 +914,34 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.navbar-header {
+    background-image: url('{{ site.baseurl }}/img/logo-header.svg');
+    background-size: contain;
+    background-position: middle left;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 60px;
+}
+
+.navbar-header > .navbar-brand {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar {
+        padding: 1rem;
+    }
+
+    .navbar-header {
+        /* background: transparent; */
+        width: auto;
+    }
+}
+
+.row-portfolio {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }

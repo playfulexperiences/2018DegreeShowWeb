@@ -3,7 +3,7 @@ title: CyberArc VR
 date: 2017-01-01
 layout: default
 img: dreams.png
-thumbnail: dreams-thumbnail.png
+thumbnail: cyber-archery-thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

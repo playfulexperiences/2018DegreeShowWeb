@@ -1,9 +1,9 @@
 ---
-title: Clockwork Miner
+title: Evolyte
 date: 2018-01-01
 layout: default
 img: dreams.png
-thumbnail: dreams-thumbnail.png
+thumbnail: dreams-thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
