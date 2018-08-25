@@ -18,6 +18,10 @@ people:
       url: https://www.linkedin.com/in/jade-hall-smith
     - title: globe
       url: https://variegated-games.com
+  bio: >
+    Part coder, part artist, all nerdy designer, Jade enjoys making games about mental
+    health and disabilities. Her games focus on inclusivity and diversity as a means of
+    inspiring players to empathise with others.
 
 - name: Matthew Deline
   pic: "matt"
@@ -32,10 +36,17 @@ people:
       url: https://linkedin.com/in/matthewdeline
     - title: globe
       url: https://www.matthewdeline.com
+  bio: >
+    Matt does his best thinking while on the road. When he’s not traveling, hiking, or
+    sitting upside down in a roller coaster, he makes experimental board, arcade,
+    narrative, and spatial games that encourage personal growth through interaction and play.
 
 - name: Alex Fletcher
   pic: "alex"
   social: []
+  bio: >
+    Alex is an experienced Audio Engineer, who happens to play the trumpet. Not to toot his
+    own horn, but he has now turned these skills to making games as well!
 
 - name: Benjamin Tandy
   pic: "placeholder"
@@ -52,6 +63,13 @@ people:
       url: https://twitter.com/foxcircles
     - title: globe
       url: https://mitunayon.github.io/
+  bio: >
+    Game Developer who wants to inspire kindness by developing experiences with integrity and
+    heart.<br/><br/>
+
+    Billy is a game developer who makes games with the power of HEART! The shop was all out of the
+    power of water.
+
 
 - name: Doruk Hasdogan
   pic: "doruk"
@@ -64,6 +82,15 @@ people:
       url: https://www.linkedin.com/in/dhasd
     - title: youtube
       url: https://www.youtube.com/channel/UCfGO0ZESaALif0Y12DF21kQ
+  bio: >
+    Indie game artist, game designer, environment designer from Turkey. Strong believer
+    in power of strong/smart ideas, and concepts. Really interested in smart level and
+    environment design.<br/><br/>
+
+    A Turkish game artist, environment designer, and game developer, Doruk is committed
+    to turning bold ideas into even bolder work in the games space, with a particular
+    focus on level design.
+
 
 - name: Ece Seyrek Hasdoğan
   pic: "ece"
@@ -80,6 +107,15 @@ people:
       url: https://www.behance.net/ScarceQueen
     - title: globe
       url: https://artstation.com/eceseyrekhasdogan
+  bio: >
+    Game artist, art director, concept artist, graphic designer from Turkey. Interested
+    in VR, UI design, concept art, character face expressions and body gestures, environment
+    design, logo design, color psychology.<br/><br/>
+
+    Ece hails from Turkey, and works as a graphic designer and artist for games.
+    From UI and logos to concept art and beautifully sculpted faces, Ece’s strong
+    use of color shines everywhere!
+
 
 - name: Julia Makivic
   pic: "placeholder"
@@ -100,6 +136,10 @@ people:
       url: https://twitter.com/raymondvrmln
     - title: globe
       url: http://rvermeulen.com
+  bio: >
+    Raymond is a games writer and narrative designer currently living in the UK. He holds
+    graduate degrees in writing and game design, following a major in philosophy of
+    science. His work has been prominently featured on both his fridge and his corkboard.
 
 - name: Tommy Graven
   pic: "tommy"
@@ -108,6 +148,8 @@ people:
       url: https://www.tommygraven.com
     - title: twitter
       url: https://twitter.com/tommy_goodgame
+  bio: >
+    Tommy is a 22 year old game developer working in C# and Unity and passionate about mobile games.
 
 - name: Hugh Kennedy
   pic: "hughsk"

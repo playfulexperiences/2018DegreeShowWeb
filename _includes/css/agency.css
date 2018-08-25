@@ -666,24 +666,7 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
     text-align: center;
-    max-width: 300px;
-    margin: 0 auto;
-    height: 400px;
-}
-
-@media screen and (max-width: 1200px) {
-    .team-member {
-        height: 350px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .team-member {
-        height: auto;
-        padding-bottom: 4rem;
-    }
 }
 
 .team-member img {
@@ -797,11 +780,11 @@ ul.social-buttons {
 
 ul.social-buttons li a {
     display: block;
-    width: 30px;
-    height: 30px;
+    width: 24px;
+    height: 24px;
     border-radius: 100%;
-    font-size: 15px;
-    line-height: 30px;
+    font-size: 12px;
+    line-height: 24px;
     outline: 0;
     color: #fff;
     background-color: #{{ site.data.template.color.secondary-dark }};
@@ -959,6 +942,8 @@ body {
 
 .modal-authors {
     list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
 }
 
 .modal-authors li {
@@ -968,4 +953,92 @@ body {
 .modal-authors li + li:before {
     content: ',';
     display: inline;
+}
+
+.team-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.team-member {
+    position: relative;
+    display: flex;
+}
+
+.team-member h4 {
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+.team-member-left {
+    margin-right: 2rem;
+    position: relative;
+    width: 150px;
+    flex-shrink: 0;
+}
+
+@media screen and (max-width: 1200px) {
+    .team-member-left {
+        width: 100px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .team-wrap .col-sm-6 {
+        width: 100%;
+    }
+}
+
+.team-member-avatar {
+    width: 100%;
+    border-radius: 100%;
+}
+
+.team-member-right {
+    flex-grow: 1;
+}
+
+.team-member-right p {
+    text-align: left;
+}
+
+.team-member .social-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.team-member .social-buttons > li {
+    padding: 0;
+    margin: 0.2rem;
+}
+
+#portfolio .section-heading,
+#team .section-heading {
+    margin-bottom: 8rem;
+}
+
+.team-wrap .col-sm-6 {
+    padding-bottom: 8rem;
+}
+
+@media screen and (max-width: 768px) {
+    .team-wrap .col-sm-6 {
+        padding-bottom: 4rem;
+    }
+
+    .team-member-left {
+        width: 25%;
+    }
+}
+
+#portfolio, #team {
+    padding: 4rem 0;
+}
+
+#portfolio {
+    padding-top: 8rem;
 }
