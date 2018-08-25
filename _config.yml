@@ -83,11 +83,15 @@ people:
 
 - name: Julia Makivic
   pic: "placeholder"
-  social: []
+  social:
+    - title: twitter
+      url: https://twitter.com/jmakivic
 
 - name: Phoenix Perry
   pic: "placeholder"
-  social: []
+  social:
+    - title: twitter
+      url: https://twitter.com/phoenixperry
 
 - name: Raymond Vermeulen
   pic: "placeholder"
