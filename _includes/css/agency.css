@@ -1021,6 +1021,10 @@ body {
     margin-bottom: 8rem;
 }
 
+#portfolio .row:not(.row-portfolio):nth-of-type(n+2) .section-heading {
+    margin-top: 8rem;
+}
+
 .team-wrap .col-sm-6 {
     padding-bottom: 8rem;
 }
