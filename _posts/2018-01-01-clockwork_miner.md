@@ -10,4 +10,4 @@ authors:
   - ['Hugh Kennedy', 'https://hughsk.io']
 ---
 
-Mine cryptocurrency at the end of the world: Evolyte is a satirical clicker game that addresses the ecological impact and strange politics of Bitcoin and other blockchain technologies.
+Mine cryptocurrency at the end of the world: Evolyte is a critical clicker game that ponders the long-term impacts of blockchain technologies.
