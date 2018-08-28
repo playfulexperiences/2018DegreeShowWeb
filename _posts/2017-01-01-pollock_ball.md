@@ -2,8 +2,8 @@
 title: Pollock Ball
 date: 2017-01-01
 layout: default
-img: dreams.png
-thumbnail: needed-thumb.jpg
+img: pollock-ball.jpg
+thumbnail: pollock-ball-thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

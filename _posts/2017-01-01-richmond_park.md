@@ -2,8 +2,8 @@
 title: Richmond Park
 date: 2017-01-01
 layout: default
-img: dreams.png
-thumbnail: needed-thumb.jpg
+img: richmond-park.jpg
+thumbnail: richmond-park-thumb.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
