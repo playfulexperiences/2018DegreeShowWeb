@@ -15,11 +15,13 @@
                             <h2>{{ post.title }}</h2>
                             <ul class="modal-authors">
                                 {% for author in post.authors
-                                    %}<li> <a href="{{ author[1] }}" target="_blank">{{ author[0] }}</a></li>{%
+                                    %}<li> {% if author[1] %}<a href="{{ author[1] }}" target="_blank">{{ author[0] }}</a>{% else %}{{author[0]}}{% endif %}</li>{%
                                 endfor %}
                             </ul>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% if post.img %}
+                                <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% endif %}
                             <p>{{ post.description }}</p>
                             {{ post.content | markdownify }}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>

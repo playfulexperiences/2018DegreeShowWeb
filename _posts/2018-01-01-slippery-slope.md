@@ -9,3 +9,5 @@ small: false
 authors:
   - ['Tommy Graven', 'https://www.tommygraven.com']
 ---
+
+Stay on the slope for as long as possible! A 2D hyper-casual mobile game.

@@ -5,9 +5,11 @@ layout: default
 img: richmond-park.jpg
 thumbnail: richmond-park-thumb.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 small: true
+authors:
+  - ['Matthew Deline', 'https://twitter.com/mattdeline']
 ---
+
+Sometimes in life there are no good choices. On your way back to the train station, you and your sister find a baby alone on a bench! What do you do?
+
+[Play Online!](http://philome.la/mattdeline/richmond-station/play)

@@ -2,7 +2,6 @@
 title: Mobile Arcade
 date: 2017-01-01
 layout: default
-img: mobile-arcade.jpg
 thumbnail: mobile-arcade-thumb.jpg
 alt: mobile-arcade
 authors:
@@ -12,3 +11,7 @@ authors:
   - ['Hugh Kennedy', 'https://hughsk.io']
 small: true
 ---
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GurdMvxtrug" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+Be the last player standing in Mobile Arcade: a portable party game where your phone is the controller!

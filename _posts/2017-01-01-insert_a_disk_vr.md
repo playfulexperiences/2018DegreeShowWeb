@@ -2,12 +2,12 @@
 title: Insert A Disk VR
 date: 2017-01-01
 layout: default
-img: dreams.png
+img: insert-disk.jpg
 thumbnail: insert-disk-thumb.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 small: true
+authors:
+  - ['Doruk Hasdoğan', 'https://twitter.com/DorukHasdogan']
 ---
+
+You are in a dark and ominous room, only things you can see are some candles and a computer screen.

@@ -2,12 +2,13 @@
 title: Shape Aracde
 date: 2017-01-01
 layout: default
-img: dreams.png
 thumbnail: shape-arcade-thumb.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 small: true
+authors:
+  - ['Matthew Deline', 'https://twitter.com/mattdeline']
 ---
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ibo4c6jBTWg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+Turn the dials to match the most shapes on a custom tabletop arcade cabinet! Can you match the most?

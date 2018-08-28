@@ -810,6 +810,14 @@ ul.social-buttons li a:active {
     margin: 3rem;
 }
 
+.portfolio-modal iframe {
+    margin-bottom: 1rem;
+}
+
+.portfolio-modal img {
+    max-width: 100%;
+}
+
 @media screen and (max-width: 768px) {
     .portfolio-modal {
         margin: 0;
