@@ -124,10 +124,17 @@ people:
       url: https://twitter.com/jmakivic
 
 - name: Phoenix Perry
-  pic: "placeholder"
+  pic: "phoenix"
   social:
     - title: twitter
       url: https://twitter.com/phoenixperry
+    - title: globe
+      url: http://www.phoenixperry.com
+  bio: >
+    Phoenix Perry creates physical games and user experiences. As an advocate for women
+    in game development, she founded Code Liberation Foundation. In her role at
+    Goldsmiths, University of London, she lecturers on Physical Computing and games and
+    leads an MA in Independent Games and Experience Design.
 
 - name: Raymond Vermeulen
   pic: "placeholder"
