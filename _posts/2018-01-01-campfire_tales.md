@@ -2,8 +2,8 @@
 title: Campfire Tales
 date: 2018-01-01
 layout: default
-img: dreams.png
-thumbnail: needed-thumb.jpg
+img: campfire.jpg
+thumbnail: campfire-thumb.jpg
 alt: campfire-tales
 small: false
 authors:

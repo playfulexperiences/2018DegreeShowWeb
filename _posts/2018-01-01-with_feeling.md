@@ -2,8 +2,8 @@
 title: With Feeling!
 date: 2018-01-01
 layout: default
-img: dreams.png
-thumbnail: needed-thumb.jpg
+img: with-feeling.jpg
+thumbnail: with-feeling-thumb.jpg
 alt: with-feeling
 small: false
 authors:
