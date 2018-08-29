@@ -2,8 +2,8 @@
 title: You Got Servered
 date: 2017-01-01
 layout: default
-img: servered.jpg
-thumbnail: servered-thumb.jpg
+img: needed-thumb.jpg
+thumbnail: needed-thumb.jpg
 alt: image-alt
 small: true
 authors:
