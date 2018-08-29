@@ -1052,7 +1052,7 @@ body {
 }
 
 #about {
-    padding-top: 8rem;
+    padding-top: 10rem;
 }
 
 .event-link {
@@ -1067,14 +1067,14 @@ body {
     justify-content: center;
     text-align: center;
     height: 8rem;
-    margin-top: -6rem;
+    margin-top: -4rem;
     vertical-align: middle;
     padding: 1rem 0;
     font-weight: 800;
     border-radius: 1rem;
     transition: background-color 0.25s;
     background-color: #99CA47;
-    box-shadow: 0 4px 0 #64901a;
+    box-shadow: 0 4px 0 #64901a, 0 0 0 8px #f7f7f7;
     font-family: {{ site.data.template.font.primary }};
 }
 
@@ -1084,5 +1084,5 @@ a.event-link:active {
     color: white;
     text-decoration: none;
     background-color: #fec503;
-    box-shadow: 0 4px 0 #b28e12;
+    box-shadow: 0 4px 0 #b28e12, 0 0 0 8px #f7f7f7;
 }
