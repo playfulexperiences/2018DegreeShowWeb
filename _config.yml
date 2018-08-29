@@ -1,11 +1,10 @@
-url: https://playfulexperiences.github.io
-baseurl: /2018DegreeShowWeb
+url: https://playfulexperiences.com
+baseurl: /
 
 # Site settings
 title: Playful Experiences
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+email: p.perry@gold.ac.uk
+description: "Independent Games and Playable Experiences is an MA program at Goldsmiths, University of London. This unique course offers critically-engaging themes and technologies, providing skills in immersive storytelling to reflect rapid changes in the games industry."
 
 # Team names, titles and social links
 people:
@@ -134,7 +133,7 @@ people:
     - title: tumblr
       url: http://sunnymothman200.tumblr.com/
   bio: >
-        ulia Makivic is a narrative game designer with a background in computer science and illustration. Her work contains a strong narrative and graphic element and explores themes of desire, obsession and voyeurism in an age where technology and surveillance have become embedded in everyday life. She is interested in using computation as a tool for creating non-linear narratives. As a part of her practice, she has been crafting a speculative world where every second of a given person’s existence is collected and analyzed using organic server farms that grow and mold according to the data that they store. 
+        ulia Makivic is a narrative game designer with a background in computer science and illustration. Her work contains a strong narrative and graphic element and explores themes of desire, obsession and voyeurism in an age where technology and surveillance have become embedded in everyday life. She is interested in using computation as a tool for creating non-linear narratives. As a part of her practice, she has been crafting a speculative world where every second of a given person’s existence is collected and analyzed using organic server farms that grow and mold according to the data that they store.
 
 - name: Phoenix Perry
   pic: "phoenix"
@@ -199,9 +198,9 @@ social:
   #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
