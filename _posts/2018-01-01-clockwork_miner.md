@@ -11,3 +11,5 @@ authors:
 ---
 
 Mine cryptocurrency at the end of the world: Evolyte is a critical clicker game that ponders the long-term impacts of blockchain technologies.
+
+ 
