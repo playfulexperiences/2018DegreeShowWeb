@@ -2,7 +2,7 @@
 title: Chronofold
 date: 2018-01-01
 layout: default
-img: dreams.png
+img: chronofold.jpg
 thumbnail: chronofold-thumb.jpg
 alt: evolyte
 small: false
@@ -14,4 +14,4 @@ authors:
 
 A time bending puzzle game where reality is not what it seems.
 
- 
+
