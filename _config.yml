@@ -48,13 +48,18 @@ people:
     Alex is an experienced Audio Engineer, who happens to play the trumpet. Not to toot his
     own horn, but he has now turned these skills to making games as well!
 
-- name: Benjamin Tandy
-  pic: "placeholder"
+- name: Ben Tandy
+  pic: "ben"
   social:
     - title: twitter
       url: https://twitter.com/frndcldben
     - title: globe
       url: https://www.afriendcalledben.com
+  bio: >
+    Ben is an interactive developer who started his career building a variety of interactive experiences for museums, galleries and expos. He transitioned over to game design and now looks to create custom games that can help to present ideas and information in a captivating manner.
+
+    His main passion are loud, over-stimulating arcade experiences that require a lot physically from the player and always seeks to hit that point in gameplay between absolute delirious elation and utter rage and despair.
+
 
 - name: Billy Karnchanapee
   pic: "billy"
