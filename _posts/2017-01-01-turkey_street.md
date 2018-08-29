@@ -14,7 +14,3 @@ authors:
 "Turkey Street", a hard-boiled parser game about Fowl Feathers, P.I., searching for an answer to that age-old question: Why *did* the chicken cross the road?
 
 [Play Online!](https://aradicaldreamer.github.io/turkeystreet_web/index.html)
-
-<!-- if you want to use a lightbox for larger images, here is how
-  <a href="img/portfolio/bigImage.jpg" data-lightbox="image-1" data-title="My caption"><img src="img/portfolio/thumbnailImage.jpg"></a>
--->
