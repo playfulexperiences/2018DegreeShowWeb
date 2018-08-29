@@ -118,7 +118,7 @@ people:
 
 
 - name: Julia Makivic
-  pic: "placeholder"
+  pic: "julia"
   social:
     - title: twitter
       url: https://twitter.com/jmakivic
@@ -129,7 +129,7 @@ people:
     - title: twitter
       url: https://twitter.com/phoenixperry
     - title: globe
-      url: http://www.phoenixperry.com
+      url: http://phoenixperry.com
   bio: >
     Phoenix Perry creates physical games and user experiences. As an advocate for women
     in game development, she founded Code Liberation Foundation. In her role at

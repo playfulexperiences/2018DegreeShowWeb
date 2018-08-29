@@ -15,3 +15,7 @@ small: true
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/GurdMvxtrug" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Be the last player standing in Mobile Arcade: a portable party game where your phone is the controller!
+
+<!-- if you want to use a lightbox for larger images, here is how
+  <a href="img/portfolio/bigImage.jpg" data-lightbox="image-1" data-title="My caption"><img src="img/portfolio/thumbnailImage.jpg"></a>
+-->
