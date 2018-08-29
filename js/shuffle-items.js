@@ -1,4 +1,4 @@
-shuffle('.col-md-4.portfolio-item');
+shuffle('.col-md-3.portfolio-item');
 shuffle('.col-md-2.portfolio-item');
 shuffle('.team-member', function (node) {
   return node.parentNode;
