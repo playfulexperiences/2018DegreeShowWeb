@@ -1052,5 +1052,37 @@ body {
 }
 
 #about {
-    padding-top: 4rem;
+    padding-top: 8rem;
+}
+
+.event-link {
+    position: absolute;
+    width: 350px;
+    left: 50%;
+    margin-left: -175px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 8rem;
+    margin-top: -6rem;
+    vertical-align: middle;
+    padding: 1rem 0;
+    font-weight: 800;
+    border-radius: 1rem;
+    transition: background-color 0.25s;
+    background-color: #99CA47;
+    box-shadow: 0 4px 0 #64901a;
+    font-family: {{ site.data.template.font.primary }};
+}
+
+a.event-link:hover,
+a.event-link:focus,
+a.event-link:active {
+    color: white;
+    text-decoration: none;
+    background-color: #fec503;
+    box-shadow: 0 4px 0 #b28e12;
 }
