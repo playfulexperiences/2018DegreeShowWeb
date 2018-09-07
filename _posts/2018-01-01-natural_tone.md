@@ -1,8 +1,7 @@
 ---
 title: Natural Tone
 date: 2018-01-01
-layout: default
-img: 
+layout: default 
 thumbnail: natural-tone-thumb.jpg
 alt: image-alt
 project-date: April 2014
