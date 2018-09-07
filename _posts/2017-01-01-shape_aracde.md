@@ -9,6 +9,6 @@ authors:
   - ['Matthew Deline', 'https://twitter.com/mattdeline']
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ibo4c6jBTWg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YMsmbw2Wt40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Turn the dials to match the most shapes on a custom tabletop arcade cabinet! Can you match the most?
