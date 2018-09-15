@@ -1,5 +1,5 @@
 ---
-title: Shape Aracde
+title: Shape Arcade
 date: 2017-01-01
 layout: default
 thumbnail: shape-arcade-thumb.jpg
