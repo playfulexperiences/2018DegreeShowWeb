@@ -1,5 +1,5 @@
 url: https://playfulexperiences.com
-baseurl: /
+baseurl: ''
 
 # Site settings
 title: Playful Experiences
@@ -67,12 +67,10 @@ people:
       url: https://twitter.com/foxcircles
     - title: globe
       url: https://mitunayon.github.io/
+    - title: github
+      url: https://github.com/mitunayon
   bio: >
-    Game Developer who wants to inspire kindness by developing experiences with integrity and
-    heart.<br/><br/>
-
-    Billy is a game developer who makes games with the power of HEART! The shop was all out of the
-    power of water.
+    Billy is a musician-turned-programmer-turned-game designer who is interested in way too many things. Right now, he endeavors to create emergent and expressive experiences that he hopes will make the world a better place. He is also interested in understanding player psychology and discussing game design.
 
 
 - name: Doruk Hasdogan
@@ -87,10 +85,6 @@ people:
     - title: youtube
       url: https://www.youtube.com/channel/UCfGO0ZESaALif0Y12DF21kQ
   bio: >
-    Indie game artist, game designer, environment designer from Turkey. Strong believer
-    in power of strong/smart ideas, and concepts. Really interested in smart level and
-    environment design.<br/><br/>
-
     A Turkish game artist, environment designer, and game developer, Doruk is committed
     to turning bold ideas into even bolder work in the games space, with a particular
     focus on level design.
@@ -112,10 +106,6 @@ people:
     - title: globe
       url: https://artstation.com/eceseyrekhasdogan
   bio: >
-    Game artist, art director, concept artist, graphic designer from Turkey. Interested
-    in VR, UI design, concept art, character face expressions and body gestures, environment
-    design, logo design, color psychology.<br/><br/>
-
     Ece hails from Turkey, and works as a graphic designer and artist for games.
     From UI and logos to concept art and beautifully sculpted faces, Ece’s strong
     use of color shines everywhere!
@@ -133,7 +123,7 @@ people:
     - title: tumblr
       url: http://sunnymothman200.tumblr.com/
   bio: >
-        ulia Makivic is a narrative game designer with a background in computer science and illustration. Her work contains a strong narrative and graphic element and explores themes of desire, obsession and voyeurism in an age where technology and surveillance have become embedded in everyday life. She is interested in using computation as a tool for creating non-linear narratives. As a part of her practice, she has been crafting a speculative world where every second of a given person’s existence is collected and analyzed using organic server farms that grow and mold according to the data that they store.
+        Julia Makivic is a narrative game designer with a background in computer science and illustration. Her work contains a strong narrative and graphic element and explores themes of desire, obsession and voyeurism in an age where technology and surveillance have become embedded in everyday life. She is interested in using computation as a tool for creating non-linear narratives. As a part of her practice, she has been crafting a speculative world where every second of a given person’s existence is collected and analyzed using organic server farms that grow and mold according to the data that they store.
 
 - name: Phoenix Perry
   pic: "phoenix"
