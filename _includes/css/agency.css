@@ -1087,3 +1087,8 @@ a.event-link:active {
     background-color: #fec503;
     box-shadow: 0 4px 0 #b28e12, 0 0 0 8px #f7f7f7;
 }
+
+.row.team-wrap::before {
+    content: '';
+    display: none;
+}
