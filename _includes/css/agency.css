@@ -812,6 +812,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal iframe {
     margin-bottom: 1rem;
+    background: #f2f2f2;
 }
 
 .portfolio-modal img {
@@ -1085,4 +1086,9 @@ a.event-link:active {
     text-decoration: none;
     background-color: #fec503;
     box-shadow: 0 4px 0 #b28e12, 0 0 0 8px #f7f7f7;
+}
+
+.row.team-wrap::before {
+    content: '';
+    display: none;
 }

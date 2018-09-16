@@ -12,6 +12,6 @@ authors:
 small: true
 ---
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/GurdMvxtrug" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" data-src-lazy="https://www.youtube.com/embed/GurdMvxtrug" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Be the last player standing in Mobile Arcade: a portable party game where your phone is the controller!
