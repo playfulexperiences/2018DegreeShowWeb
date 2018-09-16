@@ -812,6 +812,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal iframe {
     margin-bottom: 1rem;
+    background: #f2f2f2;
 }
 
 .portfolio-modal img {

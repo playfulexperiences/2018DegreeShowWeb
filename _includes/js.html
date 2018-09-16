@@ -1,3 +1,11 @@
+    <script src="{{ "/js/logo.js" | prepend: site.baseurl }}"></script>
+    <script>
+        setTimeout(function(){
+            var logo = document.getElementById('logo')
+            createPlayfulExperiencesLogo(logo, logo, "{{ "/img/logo.svg" | prepend: site.baseurl }}")
+        }, 500)
+    </script>
+
     <script src="{{ "/js/shuffle-items.js" | prepend: site.baseurl }}"></script>
 
 <!-- jQuery Version 1.11.0 -->
@@ -14,17 +22,5 @@
     <!-- Plugin Lightbox -->
     <script src="{{ "/js/lightbox.js" | prepend: site.baseurl }}"></script>
 
-
-    <!-- Contact Form JavaScript -->
-    <script src="{{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/contact_me.js" | prepend: site.baseurl }}"></script>
-
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/logo.js" | prepend: site.baseurl }}"></script>
-    <script>
-        setTimeout(function(){
-            var logo = document.getElementById('logo')
-            createPlayfulExperiencesLogo(logo, logo, "{{ "/img/logo.svg" | prepend: site.baseurl }}")
-        }, 500)
-    </script>
