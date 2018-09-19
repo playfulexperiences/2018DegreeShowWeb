@@ -1054,6 +1054,14 @@ body {
 
 #about {
     padding-top: 10rem;
+    padding-left: 2em;
+    padding-right : 2em;
+}
+
+#clients {
+  padding-left: 2em;
+  padding-right : 2em;
+
 }
 
 .event-link {
